@@ -23,12 +23,13 @@ p#p1, p#p2, p#p3 {
 	position: absolute;
 	left: 70%;
 	margin-top: 0px;
-	height: 20px;
+	height: 30px;
+	
 
 }
 
 p {
-	margin-top: 20px;
+	margin-top: 30px;
 	/*color: white;*/
 }
 
