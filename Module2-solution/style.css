@@ -6,11 +6,11 @@
 
 h1 {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-bottom: 30px;
 }
 
-p#h61, p#h62, p#h63 {
+p#p1, p#p2, p#p3 {
 	text-align: center;
 	font-weight: bold;
 	border-style: solid;
@@ -29,18 +29,18 @@ p {
 	margin-top: 20px;
 }
 
-#h61 {
+#p1 {
 	background-color: #EF9ABC;
 	/*margin-bottom: 2px;*/
 }
 
-#h62 {
+#p2 {
 	background-color: #FF5240;
 	/*margin-bottom: 2px;*/
 }
 
 
-#h63 {
+#p3 {
 	background-color: #FF9500;
 	/*margin-bottom: 2px;*/
 }
